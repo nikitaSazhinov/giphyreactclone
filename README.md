@@ -1,3 +1,8 @@
+## Giphy React Clone
+This project is a personal playground for learning react and apply web development practices learnt using the Giphy API.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
